@@ -2,6 +2,8 @@
 
 Welcome to my personal web developer portfolio! Built with **HTML**, **CSS**, and **JavaScript**, this site showcases who I am, the projects I’ve worked on, and how to contact me.
 
+**Portfolio V2** https://dannielleeee28.github.io/portfolio-v2/
+
 ## 🌟 Features
 
 - Tech stack icons and skills progress bars
